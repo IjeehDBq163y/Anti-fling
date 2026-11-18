@@ -684,4 +684,3 @@ UserInputService.InputBegan:Connect(function(input, processed)
 end)
 
 print("[Anti fling] loaded. F6 = hide/show GUI, F7 = toggle protection.")
-Make it look like this but don't add a keybinds just if you click a button to on the protection also on no need a F7 and F6 keybinds
